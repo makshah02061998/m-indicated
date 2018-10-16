@@ -1,8 +1,8 @@
 {
     "timing":"06:50",
     "path":{
-        "start":"T",
+        "start":"t",
         "end":"CSMT"
     },
     "type": "Fast"
-}`
+}
